@@ -10,6 +10,6 @@ int main(){
 		}
 	}
 	if(count>maxCount){
-		count = maxCount;
+		maxCount=count;
 	}
 }
